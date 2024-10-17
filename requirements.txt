@@ -4,7 +4,7 @@
 
 transformers==4.32.0    # Hugging Face Transformers Library for LLM
 torch==2.2.0            # PyTorch for model loading and Computations
-datasets==2.13.1        # Hugging face datasets library for loading datsets
-flask==2.3.2            # Flask for building web applications (if using the web app example)
-onnx==1.14.0            # ONNX for model conversion (if using ONNX optimization)
-onnxruntime==1.15.1     # ONNX Runtime for optimized inference
+# datasets==2.13.1        # Hugging face datasets library for loading datsets
+# flask==2.3.2            # Flask for building web applications (if using the web app example)
+# onnx==1.14.0            # ONNX for model conversion (if using ONNX optimization)
+# onnxruntime==1.15.1     # ONNX Runtime for optimized inference
