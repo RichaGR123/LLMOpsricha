@@ -1,3 +1,1 @@
 Transformers were introduced in a paper titled "Attention is All You Need". They revolutionized the field of Natural Language Processing by using self-attention mechanisms.
-
-
