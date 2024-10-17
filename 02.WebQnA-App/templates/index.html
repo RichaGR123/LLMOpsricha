@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QnA Web App</title>
+</head>
+<body>
+    <h1>Question-Answering Web Application</h1>
+    <form action="/answer" method="post">
+        <label for="context">Enter Context (Passage of Text):</label><br>
+        <textarea id="context" name="context" rows="5" cols="50" required></textarea><br><br>
+
+        <label for="question">Ask a Question:</label><br>
+        <input type="text" id="question" name="question" required><br><br>
+
+        <button type="submit">Get Answer</button>
+    </form>
+</body>
+</html>
